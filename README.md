@@ -8,6 +8,9 @@
 ## Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
+## Certificates and diplomas
+[![STEPIK](https://img.shields.io/badge/STEPIK-000000?style=for-the-badge&logo=python)](https://stepik.org/cert/1943362)
+
 ## Follow Me
 [![ВКОНТАКТЕ](https://img.shields.io/badge/ВКОНТАКТЕ-000000?style=for-the-badge&logo=VK)](https://vk.com/id554123) ![FACEBOOK](https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=FACEBOOK) ![LINKEDIN](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=LINKEDIN) ![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram)
 
