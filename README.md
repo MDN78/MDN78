@@ -8,5 +8,5 @@
 ## Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
-
-Follow Me
+## Follow Me
+[![ВКОНТАКТЕ](https://img.shields.io/badge/ВКОНТАКТЕ-000000?style=for-the-badge&logo=VK)](https://vk.com/id554123)
