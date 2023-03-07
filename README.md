@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
 ## Certificates and diplomas
-[![STEPIK](https://img.shields.io/badge/STEPIK-87CEEB?style=for-the-badge&logo=python)](https://stepik.org/cert/1943362)
+[![STEPIK](https://img.shields.io/badge/python-stepik-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/1943362)
 
 ## Follow Me
 [![ВКОНТАКТЕ](https://img.shields.io/badge/ВКОНТАКТЕ-4169E1?style=for-the-badge&logo=VK)](https://vk.com/id554123) ![FACEBOOK](https://img.shields.io/badge/FACEBOOK-000080?style=for-the-badge&logo=FACEBOOK) ![LINKEDIN](https://img.shields.io/badge/LINKEDIN-4169E1?style=for-the-badge&logo=LINKEDIN) ![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=Instagram)
