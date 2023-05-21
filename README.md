@@ -12,6 +12,9 @@
 [![STEPIK](https://img.shields.io/badge/python-general_course-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/1943362)
 [![STEPIK](https://img.shields.io/badge/python-API_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2066038)
 
+## Github Profile Trophy 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MDN78)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Follow Me
 [![ВКОНТАКТЕ](https://img.shields.io/badge/ВКОНТАКТЕ-4169E1?style=for-the-badge&logo=VK)](https://vk.com/id554123) [![FACEBOOK](https://img.shields.io/badge/FACEBOOK-000080?style=for-the-badge&logo=FACEBOOK)](https://www.facebook.com/profile.php?id=100002279257967) [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-4169E1?style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/dmitry-maksimov-23a7ba90/) ![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=Instagram)
 
