@@ -9,8 +9,10 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
 ## Certificates and diplomas
-[![STEPIK](https://img.shields.io/badge/python-general_course-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/1943362)
+[![STEPIK](https://img.shields.io/badge/python-general_course-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/1943362)<br/>
+[![STEPIK](https://img.shields.io/badge/python-extended_course-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2082586)<br/>
 [![STEPIK](https://img.shields.io/badge/python-API_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2066038)
+
 
 <!-- ## Github Profile Trophy 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MDN78)](https://github.com/MDN78/github-profile-trophy) -->
