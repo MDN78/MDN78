@@ -16,7 +16,7 @@ Hey! I'm a junior QA Engineer. In this case your can find my projects completed 
 
 ## Projects
 1. Testing a web application for teachers from Skyeng. Schedule part.
-- [Skyeng_schedule](https://www.notion.so/1-2-acaea12b7d5d49369a8fd48094c18b60?pvs=4)
+- [Skyeng_schedule](https://broken-process-7e3.notion.site/1-2-acaea12b7d5d49369a8fd48094c18b60?pvs=4)
 2. Creating an Autotest to API testing of the web site - *ToDo list* 
 - [ToDo_list](https://github.com/MDN78/ToDo_list_API_autotest)
 3. Creating an Autotest to API testing *Google place*
