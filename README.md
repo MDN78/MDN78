@@ -1,12 +1,5 @@
 ![Header](https://github.com/MDN78/MDN78/blob/main/assets/sunrise.JPG)
 
-<div align="center">
-<img src="https://giphy.com/clips/storyful-arizona-milky-way-shooting-stars-ozNvZioZuhQZ9YmxvX"/>
-</div>
-
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/ozNvZioZuhQZ9YmxvX/video" width="480"></iframe></div>
-
-
 ## About me
 Hey! I'm a junior QA Engineer. In this case your can find my projects completed in the course of training and practice.
 
