@@ -17,9 +17,9 @@ Hey! I'm a junior QA Engineer. In this case your can find my projects completed 
 ## Projects
 1. Testing a web application for teachers from Skyeng. Schedule part.
 - [Skyeng_schedule](https://broken-process-7e3.notion.site/1-2-acaea12b7d5d49369a8fd48094c18b60?pvs=4)
-2. Creating an Autotest to API testing of the web site - *ToDo list* 
+2. Creating an Autotest for API testing of the web site - *ToDo list* 
 - [ToDo_list](https://github.com/MDN78/ToDo_list_API_autotest)
-3. Creating an Autotest to API testing *Google place*
+3. Creating an Autotest for API testing *Google place*
 - [Google_place](https://github.com/MDN78/Google_place_autotest)
 4. New project dedicated to DATA Parsing
 - [Data_parcing](https://github.com/MDN78/Parsing)
@@ -29,6 +29,7 @@ Hey! I'm a junior QA Engineer. In this case your can find my projects completed 
 
 ## Follow Me
 [![ВКОНТАКТЕ](https://img.shields.io/badge/ВКОНТАКТЕ-4169E1?style=for-the-badge&logo=VK)](https://vk.com/id554123) [![FACEBOOK](https://img.shields.io/badge/FACEBOOK-000080?style=for-the-badge&logo=FACEBOOK)](https://www.facebook.com/profile.php?id=100002279257967) [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-4169E1?style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/dmitry-maksimov-23a7ba90/) ![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=Instagram)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDN78&hide=prs,contribs)
 
