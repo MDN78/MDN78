@@ -14,10 +14,11 @@ Hey! I'm a junior QA Engineer. In this case your can find my projects completed 
 [![STEPIK](https://img.shields.io/badge/python-extended_course-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2082586)
 [![STEPIK](https://img.shields.io/badge/python-API_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2066038)
 [![STEPIK](https://img.shields.io/badge/python-Selenium_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2118089)
-s
+
 ## Projects
 1. Testing a web application for teachers from Skyeng. Schedule part.
-- [Skyeng_schedule](https://broken-process-7e3.notion.site/1-2-acaea12b7d5d49369a8fd48094c18b60?pvs=4)
+- [Skyeng_schedule]()
+
 2. Creating an Autotest for API testing of the web site - *ToDo list* 
 - [ToDo_list](https://github.com/MDN78/ToDo_list_API_autotest)
 3. Creating an Autotest for API testing *Google place*
