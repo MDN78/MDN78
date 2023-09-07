@@ -16,15 +16,19 @@ Hey! I'm a junior QA Engineer. In this case your can find my projects completed 
 [![STEPIK](https://img.shields.io/badge/python-Selenium_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2118089)
 
 ## Projects
-1. Testing a web application for teachers from Skyeng. Schedule part.
+1. Testing a web application for teachers from Skyeng. Schedule part (CLOSE FOR SERVICE).
 - [Skyeng_schedule]()
 
 2. Creating an Autotest for API testing of the web site - *ToDo list* 
 - [ToDo_list](https://github.com/MDN78/ToDo_list_API_autotest)
+
 3. Creating an Autotest for API testing *Google place*
 - [Google_place](https://github.com/MDN78/Google_place_autotest)
 4. New project dedicated to DATA Parsing
 - [Data_parcing](https://github.com/MDN78/Parsing)
+
+5. Selenium autotest
+- [Selenium Autotest](https://github.com/MDN78/Stepik_selenium_autotest.git)
 
 <!-- ## Github Profile Trophy 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MDN78)](https://github.com/MDN78/github-profile-trophy) -->
