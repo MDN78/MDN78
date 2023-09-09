@@ -14,6 +14,7 @@ Hey! I'm a junior QA Engineer. In this case your can find my projects completed 
 [![STEPIK](https://img.shields.io/badge/python-extended_course-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2082586)
 [![STEPIK](https://img.shields.io/badge/python-API_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2066038)
 [![STEPIK](https://img.shields.io/badge/python-Selenium_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2118089)
+[![STEPIK](https://img.shields.io/badge/python-Selenium_Extended-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2167510)
 
 ## Projects
 1. Testing a web application for teachers from Skyeng. Schedule part (CLOSE FOR SERVICE).
