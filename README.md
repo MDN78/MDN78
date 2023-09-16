@@ -17,8 +17,9 @@ Hey! I'm a junior QA Engineer. In this case your can find my projects completed 
 [![STEPIK](https://img.shields.io/badge/python-Selenium_Extended-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2167510)
 
 ## Projects
-1. Testing a web application for teachers from Skyeng. Schedule part (CLOSE FOR SERVICE).
-- [Skyeng_schedule]()
+1. Testing a web application for teachers from Skyeng. Schedule and video_practice.
+- [Skyeng_schedule](https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60)
+- [Skyeng_video_practice](https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4)
 
 2. Creating an Autotest for API testing of the web site - *ToDo list* 
 - [ToDo_list](https://github.com/MDN78/ToDo_list_API_autotest)
@@ -30,6 +31,9 @@ Hey! I'm a junior QA Engineer. In this case your can find my projects completed 
 
 5. Selenium autotest
 - [Selenium Autotest](https://github.com/MDN78/Stepik_selenium_autotest.git)
+
+6. Selenium autotest. Site "Spiningist"
+- [Spiningist Autotest](https://github.com/MDN78/Spiningist_site_autotest_selenium.git)
 
 <!-- ## Github Profile Trophy 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MDN78)](https://github.com/MDN78/github-profile-trophy) -->
