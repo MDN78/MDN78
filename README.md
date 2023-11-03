@@ -10,9 +10,10 @@ Hey! I'm a junior QAA Engineer.</br> Stack: Python+Pytest+Selenium+Requests+Alur
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
 ## Certificates (links)
-[![STEPIK](https://img.shields.io/badge/python-general_course-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/1943362)
-[![STEPIK](https://img.shields.io/badge/python-extended_course-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2082586)
-[![STEPIK](https://img.shields.io/badge/python-API_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2066038)
+[![SKYPRO](https://img.shields.io/badge/SkyPro-QA_Engineer-1E90FF?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing)</br>
+[![STEPIK](https://img.shields.io/badge/python-general_course-FFFF00?style=for-the-badge&logo=python)](https://stepik.org/cert/1943362)
+[![STEPIK](https://img.shields.io/badge/python-extended_course-FFFF00?style=for-the-badge&logo=python)](https://stepik.org/cert/2082586)</br>
+[![STEPIK](https://img.shields.io/badge/python-API_Autotest-FF7F50?style=for-the-badge&logo=python)](https://stepik.org/cert/2066038)
 [![STEPIK](https://img.shields.io/badge/python-Selenium_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2118089)
 [![STEPIK](https://img.shields.io/badge/python-Selenium_Extended-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2167510)
 
