@@ -24,7 +24,7 @@ Hey! I'm a junior QAA Engineer.</br> Stack: Python+Pytest+Selenium+Requests+Allu
 - [Skyeng_schedule](https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60)
 - [Skyeng_video_practice](https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4)
 
-2. Template for auto-tests. Example based on *TRELLO.COM*
+2. Template for auto-tests. UI and API tests. Example based on *TRELLO.COM*
 - [TRELLO](https://github.com/MDN78/pytest_ui_api_template)
 
 3. Creating an Autotest for API testing of the web site - *ToDo list* 
