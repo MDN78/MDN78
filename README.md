@@ -24,18 +24,21 @@ Hey! I'm a junior QAA Engineer.</br> Stack: Python+Pytest+Selenium+Requests+Allu
 - [Skyeng_schedule](https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60)
 - [Skyeng_video_practice](https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4)
 
-2. Creating an Autotest for API testing of the web site - *ToDo list* 
+2. Template for auto-tests. Example based on *TRELLO.COM*
+- [TRELLO](https://github.com/MDN78/pytest_ui_api_template)
+
+3. Creating an Autotest for API testing of the web site - *ToDo list* 
 - [ToDo_list](https://github.com/MDN78/ToDo_list_API_autotest)
 
-3. Creating an Autotest for API testing *Google place*
+4. Creating an Autotest for API testing *Google place*
 - [Google_place](https://github.com/MDN78/Google_place_autotest)
-4. New project dedicated to DATA Parsing
+5. New project dedicated to DATA Parsing
 - [Data_parcing](https://github.com/MDN78/Parsing)
 
-5. Selenium autotest
+6. Selenium autotest
 - [Selenium Autotest](https://github.com/MDN78/Stepik_selenium_autotest.git)
 
-6. Selenium autotest. Site "Spiningist"
+7. Selenium autotest. Site "Spiningist"
 - [Spiningist Autotest](https://github.com/MDN78/Spiningist_site_autotest_selenium.git)
 
 <!-- ## Github Profile Trophy 
