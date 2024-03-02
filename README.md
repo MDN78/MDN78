@@ -8,7 +8,7 @@ Hey! I'm a junior QAA Engineer.</br> Stack: Python+Pytest+Selenium+Requests+Allu
 
 ## Languages  
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" wight="40" />
           
 ![Python](https://img.shields.io/badge/Python-F0E68C?style=for-the-badge&logo=python)
 
