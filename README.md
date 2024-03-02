@@ -1,5 +1,8 @@
 ![Header](https://github.com/MDN78/MDN78/blob/main/assets/sunrise.JPG)
 
+<h1 align="center">Hi there, I'm <a target="_blank">Dmitry</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 ## About me
 Hey! I'm a junior QAA Engineer.</br> Stack: Python+Pytest+Selenium+Requests+AllureReports.</br> In this case your can find my projects completed in the course of training and practice.
 
