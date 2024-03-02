@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a target="_blank">Dimitri</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior QAA Engineer ru isr</h3>
+<h3 align="center">Junior QAA Engineer ru</h3>
 ## About me
 Hey! I'm a junior QAA Engineer.</br> Stack: Python+Pytest+Selenium+Requests+AllureReports.</br> In this case your can find my projects completed in the course of training and practice.
 
