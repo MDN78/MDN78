@@ -3,10 +3,11 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Dimitri</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior QAA Engineer</h3>
-<h3 align="left">In this case your can find my projects completed in the course of training and practice.</h3>  
+<h4 align="left">In this case your can find my projects completed in the course of training and practice.</h4>  
 
 ## Stack:  
 <h4 align="left"><b>Python+Pytest+Selenium+Requests+AllureReports<b></br><b>Python+Pytest+Selene+AllureReports<b></h4>
+
 
 ## Tools and skills
 ![Qase](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=appveyor) ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira) ![Sitechco](https://img.shields.io/badge/Sitechco-000000?style=for-the-badge&logo=appveyor) ![Miro](https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=Miro) ![Checkvist](https://img.shields.io/badge/Checkvist-000000?style=for-the-badge&logo=appveyor) ![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=Confluence) ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman) ![Postgre](https://img.shields.io/badge/Postgre-000000?style=for-the-badge&logo=postgresql) ![Mockoon](https://img.shields.io/badge/Mockoon-000000?style=for-the-badge&logo=appveyor) ![JMeter](https://img.shields.io/badge/JMeter-000000?style=for-the-badge&logo=apachejmeter) ![SoapUI](https://img.shields.io/badge/SoapUI-000000?style=for-the-badge&logo=appveyor) ![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=appveyor) ![SQL](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=sqlite&logoColor=appveyor) ![SELENIUM](https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=selenium) ![REQUESTS](https://img.shields.io/badge/requests-000000?style=for-the-badge&logo=appveyor)
@@ -33,7 +34,7 @@
 2. Template for auto-tests. UI and API tests. Example based on *TRELLO.COM*
 - [TRELLO](https://github.com/MDN78/pytest_ui_api_template)
 
-3. Creating an Autotest for API testing of the web site - *ToDo list*
+3. Creating an Autotest for API testing of the website - *ToDo list*
 - [ToDo_list](https://github.com/MDN78/ToDo_list_API_autotest)
 
 4. Creating an Autotest for API testing *Google place*
