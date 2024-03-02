@@ -9,8 +9,6 @@ Hey! I'm a junior QAA Engineer.</br> Stack: Python+Pytest+Selenium+Requests+Allu
 ## Languages  
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60" wight="60" />
-          
-![Python](https://img.shields.io/badge/Python-F0E68C?style=for-the-badge&logo=python)
 
 ## Certificates (links)
 [![SKYPRO](https://img.shields.io/badge/SkyPro-QA_Engineer-1E90FF?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing)
