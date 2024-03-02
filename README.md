@@ -3,7 +3,6 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Dimitri</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior QAA Engineer</h3>
-<!--## About me
 
 <h4 align="left">Stack: Python+Pytest+Selenium+Requests+AllureReports.</br> In this case your can find my projects completed in the course of training and practice.</h4>
 
