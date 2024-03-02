@@ -51,5 +51,5 @@ Hey! I'm a junior QAA Engineer.</br> Stack: Python+Pytest+Selenium+Requests+Allu
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDN78&hide=prs,contribs)  
-![](https://github-profile-summary-cards.varcel.app/api/cards/stats?username=MDN78&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MDN78&theme=solarized_dark)
 
