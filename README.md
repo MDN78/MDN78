@@ -6,8 +6,15 @@
 <h4 align="left">In this case your can find my projects completed in the course of training and practice.</h4>  
 
 ## Stack:  
-<h4 align="left"><b>Python+Pytest+Selenium+Requests+AllureReports<b></br><b>Python+Pytest+Selene+AllureReports<b></h4>
-
+<h4 align="left"><b>Python+Pytest+Selenium+Requests+AllureReports<b></br><b>Python+Pytest+Selene+AllureReports<b></h4>  
+```mermaid
+flowchart LR
+    Python --> Pytest --> Selenium --> Requests --> AllureReports
+```
+```mermaid
+flowchart LR
+    Python --> Pytest --> Selen --> AllureReports
+```
 
 ## Tools and skills
 ![Qase](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=appveyor) ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira) ![Sitechco](https://img.shields.io/badge/Sitechco-000000?style=for-the-badge&logo=appveyor) ![Miro](https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=Miro) ![Checkvist](https://img.shields.io/badge/Checkvist-000000?style=for-the-badge&logo=appveyor) ![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=Confluence) ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman) ![Postgre](https://img.shields.io/badge/Postgre-000000?style=for-the-badge&logo=postgresql) ![Mockoon](https://img.shields.io/badge/Mockoon-000000?style=for-the-badge&logo=appveyor) ![JMeter](https://img.shields.io/badge/JMeter-000000?style=for-the-badge&logo=apachejmeter) ![SoapUI](https://img.shields.io/badge/SoapUI-000000?style=for-the-badge&logo=appveyor) ![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=appveyor) ![SQL](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=sqlite&logoColor=appveyor) ![SELENIUM](https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=selenium) ![REQUESTS](https://img.shields.io/badge/requests-000000?style=for-the-badge&logo=appveyor) ![jenkins](https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=jenkins)
@@ -16,8 +23,6 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60" wight="60" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="60" wight="60" />
-          
-
 
 ## Certificates (links)
 [![SKYPRO](https://img.shields.io/badge/SkyPro-QA_Engineer-1E90FF?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing)
