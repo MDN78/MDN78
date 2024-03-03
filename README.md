@@ -11,6 +11,7 @@
 flowchart LR
     Python --> Pytest --> Selenium --> Requests --> AllureReports
 ```
+
 ```mermaid
 flowchart LR
     Python --> Pytest --> Selen --> AllureReports
