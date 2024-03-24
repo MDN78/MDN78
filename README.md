@@ -6,7 +6,6 @@
 <h4 align="left">In this case your can find my projects completed in the course of training and practice.</h4>  
 
 ## Stack:  
-<h4 align="left"><b>Python+Pytest+Selenium+Requests+AllureReports<b></br><b>Python+Pytest+Selene+AllureReports<b></h4>  
 <p  align="left">
 <code><img width="5%" title="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></code>
 <code><img width="5%" title="pytest" src="https://github.com/MDN78/MDN78/blob/main/assets/pytest.png"></code>
