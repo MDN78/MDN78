@@ -24,7 +24,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60" wight="60" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="60" wight="60" />
 
-## Certificates (links)
+## Certificates (links)  
+<table width="100%" border='0'>
+     <tr><td width="10%" valign="bottom"><img src="assets/skypro.jpeg"></td><td valign="middle">Skypro</br>QA Engineer</br><a target="_blank" href="https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing">Сертификат</a></td></tr>
+     <tr><td width="10%" valign="bottom"><img src="assets/skypro.jpeg"></td><td valign="middle">Skypro</br>QA Automation Engineer. Selenium and Python</br><a target="_blank" href="https://drive.google.com/file/d/1OFW-zMCFt4dPBMt2-NORSH5axeYL9ELt/view?usp=sharing">Сертификат</a></td></tr>
+
+
+</table>
+
 [![SKYPRO](https://img.shields.io/badge/SkyPro-QA_Engineer-1E90FF?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing)
 [![SKYPRO](https://img.shields.io/badge/SkyPro-Automation-1E90FF?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/1OFW-zMCFt4dPBMt2-NORSH5axeYL9ELt/view?usp=sharing)  
 </br>
