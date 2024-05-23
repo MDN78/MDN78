@@ -25,6 +25,9 @@
     <tr><td width="15%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skypro. QA Automation Engineer. Selenium and Python</br><a target="_blank" href="https://drive.google.com/file/d/1OFW-zMCFt4dPBMt2-NORSH5axeYL9ELt/view?usp=sharing">Сертификат</a></td></tr>
     <tr><td width="15%" valign="middle"><img src="assets/qa_guru_black.png"></td><td valign="middle">QAGURU. QA Automation Engineer</br><a target="_blank" href="https://drive.google.com/file/d/13k1pRtWdwHjJ1VYe7pfxeGcwwiGOl7LM/view?usp=sharing">Сертификат</a></td></tr>
     <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. General course</br><a target="_blank" href="https://stepik.org/cert/1943362">Сертификат</a></td></tr>
+    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Extended course</br><a target="_blank" href="https://stepik.org/cert/2082586">Сертификат</a></td></tr>
+    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. API automation and programming testing</br><a target="_blank" href="https://stepik.org/cert/2066038">Сертификат</a></td></tr>
+    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Test automation using Selenium</br><a target="_blank" href="https://stepik.org/cert/2118089?lang=en">Сертификат</a></td></tr>
 
 </table>
 
