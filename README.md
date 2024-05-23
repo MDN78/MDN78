@@ -28,19 +28,8 @@
     <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Extended course</br><a target="_blank" href="https://stepik.org/cert/2082586">Сертификат</a></td></tr>
     <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. API automation and programming testing</br><a target="_blank" href="https://stepik.org/cert/2066038">Сертификат</a></td></tr>
     <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Test automation using Selenium</br><a target="_blank" href="https://stepik.org/cert/2118089?lang=en">Сертификат</a></td></tr>
-
+    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Software testing: Automation. Selenium</br><a target="_blank" href="https://stepik.org/cert/2167510?lang=en">Сертификат</a></td></tr>
 </table>
-
-[![SKYPRO](https://img.shields.io/badge/SkyPro-QA_Engineer-1E90FF?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing)
-[![SKYPRO](https://img.shields.io/badge/SkyPro-Automation-1E90FF?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/1OFW-zMCFt4dPBMt2-NORSH5axeYL9ELt/view?usp=sharing)  
-</br>
-[![QAGURU](https://img.shields.io/badge/QAGURU-Automation-1E90FF?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/13k1pRtWdwHjJ1VYe7pfxeGcwwiGOl7LM/view?usp=sharing)  
-
-[![STEPIK](https://img.shields.io/badge/stepik-python_general_course-FFFF00?style=for-the-badge&logo=python)](https://stepik.org/cert/1943362)
-[![STEPIK](https://img.shields.io/badge/stepik-python_extended_course-FFFF00?style=for-the-badge&logo=python)](https://stepik.org/cert/2082586)  
-[![STEPIK](https://img.shields.io/badge/stepik-API_Autotest-FF7F50?style=for-the-badge&logo=python)](https://stepik.org/cert/2066038)
-[![STEPIK](https://img.shields.io/badge/stepik-Selenium_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2118089)
-[![STEPIK](https://img.shields.io/badge/stepik-Selenium_Extended-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2167510)
 
 ## Projects
 1. Testing a web application for teachers from Skyeng. Schedule and video_practice.
