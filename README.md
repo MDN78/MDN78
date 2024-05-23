@@ -30,11 +30,11 @@
 </br>
 [![QAGURU](https://img.shields.io/badge/QAGURU-Automation-1E90FF?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/13k1pRtWdwHjJ1VYe7pfxeGcwwiGOl7LM/view?usp=sharing)  
 
-[![STEPIK](https://img.shields.io/badge/python-general_course-FFFF00?style=for-the-badge&logo=python)](https://stepik.org/cert/1943362)
-[![STEPIK](https://img.shields.io/badge/python-extended_course-FFFF00?style=for-the-badge&logo=python)](https://stepik.org/cert/2082586)  
-[![STEPIK](https://img.shields.io/badge/python-API_Autotest-FF7F50?style=for-the-badge&logo=python)](https://stepik.org/cert/2066038)
-[![STEPIK](https://img.shields.io/badge/python-Selenium_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2118089)
-[![STEPIK](https://img.shields.io/badge/python-Selenium_Extended-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2167510)
+[![STEPIK](https://img.shields.io/badge/stepik-python_general_course-FFFF00?style=for-the-badge&logo=python)](https://stepik.org/cert/1943362)
+[![STEPIK](https://img.shields.io/badge/stepik-python_extended_course-FFFF00?style=for-the-badge&logo=python)](https://stepik.org/cert/2082586)  
+[![STEPIK](https://img.shields.io/badge/stepik-API_Autotest-FF7F50?style=for-the-badge&logo=python)](https://stepik.org/cert/2066038)
+[![STEPIK](https://img.shields.io/badge/stepik-Selenium_Autotest-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2118089)
+[![STEPIK](https://img.shields.io/badge/stepik-Selenium_Extended-<COLOR>?style=for-the-badge&logo=python)](https://stepik.org/cert/2167510)
 
 ## Projects
 1. Testing a web application for teachers from Skyeng. Schedule and video_practice.
