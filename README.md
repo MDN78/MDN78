@@ -26,8 +26,8 @@
 
 ## Certificates (links)  
 <table width="100%" border='0'>
-     <tr><td width="10%" valign="bottom"><img src="assets/skypro.jpeg"></td><td valign="middle">Skypro</br>QA Engineer</br><a target="_blank" href="https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing">Сертификат</a></td></tr>
-     <tr><td width="10%" valign="bottom"><img src="assets/skypro.jpeg"></td><td valign="middle">Skypro</br>QA Automation Engineer. Selenium and Python</br><a target="_blank" href="https://drive.google.com/file/d/1OFW-zMCFt4dPBMt2-NORSH5axeYL9ELt/view?usp=sharing">Сертификат</a></td></tr>
+     <tr><td width="15%" valign="bottom"><img src="assets/skypro.jpeg"></td><td valign="middle">Skypro</br>QA Engineer</br><a target="_blank" href="https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing">Сертификат</a></td></tr>
+     <tr><td width="15%" valign="bottom"><img src="assets/skypro.jpeg"></td><td valign="middle">Skypro</br>QA Automation Engineer. Selenium and Python</br><a target="_blank" href="https://drive.google.com/file/d/1OFW-zMCFt4dPBMt2-NORSH5axeYL9ELt/view?usp=sharing">Сертификат</a></td></tr>
 
 
 </table>
