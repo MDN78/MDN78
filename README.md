@@ -26,7 +26,7 @@
 
 ## Certificates (links)  
 <table width="100%" border='0'>
-    <tr><td width="15%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skypro</br>QA Engineer</br><a target="_blank" href="https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing">Сертификат</a></td></tr>
+    <tr><td width="15%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skypro. QA Engineer</br><a target="_blank" href="https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing">Сертификат</a></td></tr>
     <tr><td width="15%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skypro</br>QA Automation Engineer. Selenium and Python</br><a target="_blank" href="https://drive.google.com/file/d/1OFW-zMCFt4dPBMt2-NORSH5axeYL9ELt/view?usp=sharing">Сертификат</a></td></tr>
     <tr><td width="15%" valign="middle"><img src="assets/qa_guru_black.png"></td><td valign="middle">QAGURU</br>QA Automation Engineer</br><a target="_blank" href="https://drive.google.com/file/d/13k1pRtWdwHjJ1VYe7pfxeGcwwiGOl7LM/view?usp=sharing">Сертификат</a></td></tr>
     <tr><td width="10%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik</br>Python. General course</br><a target="_blank" href="https://stepik.org/cert/1943362">Сертификат</a></td></tr>
