@@ -14,7 +14,7 @@
 <code><img width="5%" title="requests" src="https://github.com/MDN78/MDN78/blob/main/assets/requests.png"></code>
 <code><img width="5%" title="allure" src="https://github.com/MDN78/MDN78/blob/main/assets/allure_report.png"></code>
 <code><img width="5%" title="alluretestops" src="https://github.com/MDN78/MDN78/blob/main/assets/allure_testops.png"></code>
-<code><img width="3%" title="jenkins" src="https://github.com/MDN78/MDN78/blob/main/assets/jenkins.png"></code>
+<code><img width="4%" title="jenkins" src="https://github.com/MDN78/MDN78/blob/main/assets/jenkins.png"></code>
 <code><img width="5%" title="markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"></code>
 
 ## Tools and skills
