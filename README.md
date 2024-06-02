@@ -35,7 +35,7 @@
 ![SELENIUM](https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=selenium) 
 ![REQUESTS](https://img.shields.io/badge/requests-000000?style=for-the-badge&logo=appveyor) 
 ![jenkins](https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=jenkins)
-![selenoid](https://img.shields.io/badge/selenoid-000000?style=for-the-badge&logo=selenoid)  
+![selenoid](https://img.shields.io/badge/selenoid-000000?style=for-the-badge&logo=appveyor)  
 
 ## Certificates and diplomas  
 <table width="100%" border='0'>
