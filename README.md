@@ -53,7 +53,7 @@
 1. Testing a web application for teachers from Skyeng. Schedule and video_practice.
 <!-- - [Skyeng_schedule](https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60)
 - [Skyeng_video_practice](https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4) -->
-2. Two different approaches to automating checks:
+2. Two ways for test automation tests:
  - Project of auto-tests UI, API, Mobile. Site and mobile App *Autodoc*  
 
    [AUTODOC](https://github.com/MDN78/autodoc/tree/mobile_version_draft)    
