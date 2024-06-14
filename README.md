@@ -55,14 +55,15 @@
 - [Skyeng_video_practice](https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4) -->
 2. Two ways for test automation tests:
  - Framework - *Selene*. Project of auto-tests UI, API, Mobile. Site and mobile App *Autodoc*  
-<p  align="left">
-<code><img width="5%" title="selene" src="https://github.com/MDN78/MDN78/blob/main/assets/selene.png"></code>  
+<table width="100%" border='0'>
+<tr><td width="10%" valign="middle"><img src="assets/selene.png"></td><td valign="middle">Framework - *Selene*. Project of auto-tests UI, API, Mobile. Site and mobile App *Autodoc* </br><a target="_blank" href="https://github.com/MDN78/autodoc/tree/mobile_version_draft">AUTODOC</a></td></tr>  
 
 [AUTODOC](https://github.com/MDN78/autodoc/tree/mobile_version_draft)    
 
  - Framework *Selenium* Project UI and API tests. Based on services *TRELLO.COM*  
    [TRELLO](https://github.com/MDN78/pytest_ui_api_template)
 
+</table>
 
 <!-- ## Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=MDN78)](https://github.com/MDN78/github-profile-trophy) -->
