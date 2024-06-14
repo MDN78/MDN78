@@ -56,13 +56,8 @@
 2. Two ways for test automation tests:
  - Framework - *Selene*. Project of auto-tests UI, API, Mobile. Site and mobile App *Autodoc*  
 <table width="100%" border='0'>
-<tr><td width="10%" valign="middle"><img src="assets/selene.png"></td><td valign="middle">Framework - *Selene*. Project of auto-tests UI, API, Mobile. Site and mobile App *Autodoc* </br><a target="_blank" href="https://github.com/MDN78/autodoc/tree/mobile_version_draft">AUTODOC</a></td></tr>  
-
-[AUTODOC](https://github.com/MDN78/autodoc/tree/mobile_version_draft)    
-
- - Framework *Selenium* Project UI and API tests. Based on services *TRELLO.COM*  
-   [TRELLO](https://github.com/MDN78/pytest_ui_api_template)
-
+<tr><td width="10%" valign="middle"><img src="assets/selene.png"></td><td valign="middle">Framework: "Selene". Project of auto-tests UI, API, Mobile. Site and mobile App "Autodoc" </br><a target="_blank" href="https://github.com/MDN78/autodoc/tree/mobile_version_draft">AUTODOC</a></td></tr>  
+<tr><td width="10%" valign="middle"><img src="assets/selenium.png"></td><td valign="middle">Framework: "Selenium". Project UI and API tests. Based on services "TRELLO.COM" </br><a target="_blank" href="https://github.com/MDN78/pytest_ui_api_template">TRELLO</a></td></tr>
 </table>
 
 <!-- ## Github Profile Trophy
