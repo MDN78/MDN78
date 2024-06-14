@@ -54,11 +54,11 @@
 <!-- - [Skyeng_schedule](https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60)
 - [Skyeng_video_practice](https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4) -->
 2. Two ways for test automation tests:
- - Project of auto-tests UI, API, Mobile. Site and mobile App *Autodoc*  
+ - Framework - *Selene*. Project of auto-tests UI, API, Mobile. Site and mobile App *Autodoc*  
 
    [AUTODOC](https://github.com/MDN78/autodoc/tree/mobile_version_draft)    
 
- - Project UI and API tests. Based on services *TRELLO.COM*  
+ - Framework *Selenium* Project UI and API tests. Based on services *TRELLO.COM*  
    [TRELLO](https://github.com/MDN78/pytest_ui_api_template)
 
 
