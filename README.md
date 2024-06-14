@@ -57,7 +57,8 @@
  - Framework - *Selene*. Project of auto-tests UI, API, Mobile. Site and mobile App *Autodoc*  
 <p  align="left">
 <code><img width="5%" title="selene" src="https://github.com/MDN78/MDN78/blob/main/assets/selene.png"></code>  
-   [AUTODOC](https://github.com/MDN78/autodoc/tree/mobile_version_draft)    
+
+[AUTODOC](https://github.com/MDN78/autodoc/tree/mobile_version_draft)    
 
  - Framework *Selenium* Project UI and API tests. Based on services *TRELLO.COM*  
    [TRELLO](https://github.com/MDN78/pytest_ui_api_template)
