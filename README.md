@@ -64,7 +64,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MDN78)](https://github.com/MDN78/github-profile-trophy) -->
 
 ## Follow Me
- section coming soon..
+ section coming soon..  
 <!-- [![ВКОНТАКТЕ](https://img.shields.io/badge/ВКОНТАКТЕ-4169E1?style=for-the-badge&logo=VK)](https://vk.com/id554123) [![FACEBOOK](https://img.shields.io/badge/FACEBOOK-000080?style=for-the-badge&logo=FACEBOOK)](https://www.facebook.com/profile.php?id=100002279257967) [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-4169E1?style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/dmitry-maksimov-23a7ba90/) ![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=Instagram) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MDN78&theme=solarized_dark)  
