@@ -48,7 +48,9 @@
     <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. API automation and programming testing</br><a target="_blank" href="https://stepik.org/cert/2066038">Certificate</a></td></tr>
     <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Test automation using Selenium</br><a target="_blank" href="https://stepik.org/cert/2118089?lang=en">Certificate</a></td></tr>
     <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Software testing: Automation. Selenium</br><a target="_blank" href="https://stepik.org/cert/2167510?lang=en">Certificate</a></td></tr>
+    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. SQL</br><a target="_blank" href="https://stepik.org/cert/2560338?lang=en">Certificate</a></td></tr>
 </table>
+
 
 ## Projects
 1. Testing a web application for teachers from Skyeng. Schedule and video_practice.
