@@ -56,10 +56,10 @@
 ## Projects
 1. Testing a web application for teachers from Skyeng. Schedule and video_practice.  
 <table width="100%" border='0'>
-
+<tr><td width="7%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skyeng_schedule </br><a target="_blank" href="https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60">SKYPRO</a></td></tr>
 
 </table>
-<tr><td width="7%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skyeng_schedule </br><a target="_blank" href="https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60">SKYPRO</a></td></tr>
+
 
 [//]: # (- [Skyeng_schedule]&#40;https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60&#41;  )
 
