@@ -60,8 +60,8 @@
 1. Testing a web application for teachers from Skyeng. Schedule and video_practice.
 
 <table width="100%" border='0'>
-<tr><td width="15%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skyeng site. Chapter 'schedule' </br><a target="_blank" href="https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60">schedule</a></td></tr>
-<tr><td width="15%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skyeng APPs. Videopractice </br><a target="_blank" href="https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4&#41">video practice</a></td></tr>
+<tr><td width="12%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skyeng site. Chapter 'schedule' </br><a target="_blank" href="https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60">schedule</a></td></tr>
+<tr><td width="12%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skyeng APPs. Videopractice </br><a target="_blank" href="https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4&#41">video practice</a></td></tr>
 </table>
 
 [//]: # (- [Skyeng_schedule]&#40;https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60&#41;  )
@@ -75,12 +75,12 @@
 <tr><td width="7%" valign="middle"><img src="assets/selenium.png"></td><td valign="middle">Framework: "Selenium". Project UI and API tests. Based on services "TRELLO.COM" </br><a target="_blank" href="https://github.com/MDN78/pytest_ui_api_template">TRELLO</a></td></tr>
 </table>
 
-<!-- ## Github Profile Trophy
+<!-- ## GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=MDN78)](https://github.com/MDN78/github-profile-trophy) -->
 
 ## Follow Me
 
-section coming soon..
+section coming soon...
 <!-- [![ВКОНТАКТЕ](https://img.shields.io/badge/ВКОНТАКТЕ-4169E1?style=for-the-badge&logo=VK)](https://vk.com/id554123) [![FACEBOOK](https://img.shields.io/badge/FACEBOOK-000080?style=for-the-badge&logo=FACEBOOK)](https://www.facebook.com/profile.php?id=100002279257967) [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-4169E1?style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/dmitry-maksimov-23a7ba90/) ![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=Instagram) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MDN78&theme=solarized_dark)
