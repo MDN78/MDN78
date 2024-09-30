@@ -16,7 +16,7 @@
 <code><img width="5%" title="alluretestops" src="https://github.com/MDN78/MDN78/blob/main/assets/allure_testops.png"></code>
 <code><img width="4%" title="jenkins" src="https://github.com/MDN78/MDN78/blob/main/assets/jenkins.png"></code>
 <code><img width="5%" title="selenoid" src="https://github.com/MDN78/MDN78/blob/main/assets/selenoid.png"></code>
-<code><img width="5%" title="sqlite" src="https://github.com/MDN78/MDN78/blob/main/assets/sqlite.png"></code>
+<code><img width="5%" title="sqlite" src="https://github.com/MDN78/MDN78/blob/main/assets/sqlite1.png"></code>
 <code><img width="5%" title="markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"></code>
 
 ## Tools and skills
