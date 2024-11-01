@@ -68,11 +68,12 @@
 
 [//]: # (- [Skyeng_video_practice]&#40;https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4&#41;  )
 
-2. Two ways for automation tests:
+2. My personal projects:
 
 <table width="100%" border='0'>
 <tr><td width="7%" valign="middle"><img src="assets/selene.png"></td><td valign="middle">Framework: "Selene". Project of auto-tests UI, API, Mobile. Site and mobile App "Autodoc" </br><a target="_blank" href="https://github.com/MDN78/autodoc/tree/mobile_version_draft">AUTODOC</a></td></tr>  
 <tr><td width="7%" valign="middle"><img src="assets/selenium.png"></td><td valign="middle">Framework: "Selenium". Project UI and API tests. Based on services "TRELLO.COM" </br><a target="_blank" href="https://github.com/MDN78/pytest_ui_api_template">TRELLO</a></td></tr>
+<tr><td width="7%" valign="middle"><img src="assets/requests.png"></td><td valign="middle">API project: Star Wars API. </br><a target="_blank" href="https://github.com/MDN78/star_wars_API">SWAPI</a></td></tr>
 </table>
 
 <!-- ## GitHub Profile Trophy
