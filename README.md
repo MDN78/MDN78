@@ -40,6 +40,31 @@
 ![jenkins](https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=jenkins)
 ![selenoid](https://img.shields.io/badge/selenoid-000000?style=for-the-badge&logo=appveyor)
 
+## Projects
+
+1. Testing a web application for teachers from Skyeng. Schedule and video_practice.
+
+<table width="100%" border='0'>
+<tr><td width="12%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skyeng site. Chapter 'schedule' </br><a target="_blank" href="https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60">schedule</a></td></tr>
+<tr><td width="12%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skyeng APPs. Videopractice </br><a target="_blank" href="https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4&#41">video practice</a></td></tr>
+</table>
+
+[//]: # (- [Skyeng_schedule]&#40;https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60&#41;  )
+
+[//]: # (- [Skyeng_video_practice]&#40;https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4&#41;  )
+
+2. Auto-tests:
+
+<table width="100%" border='0'>
+<tr><td width="7%" valign="middle"><img src="assets/selene.png"></td><td valign="middle">Framework: "Selene". Project of auto-tests UI, API, Mobile. Site and mobile App "Autodoc" </br><a target="_blank" href="https://github.com/MDN78/autodoc/tree/mobile_version_draft">AUTODOC</a></td></tr>  
+<tr><td width="7%" valign="middle"><img src="assets/selenium.png"></td><td valign="middle">Framework: "Selenium". Project UI and API tests. Based on services "TRELLO.COM" </br><a target="_blank" href="https://github.com/MDN78/pytest_ui_api_template">TRELLO</a></td></tr>
+<tr><td width="7%" valign="middle"><img src="assets/Niffler.PNG"></td><td valign="middle">Framework: Selene, REST API, SQLAlchemy, KAFKA. Project of auto-tests UI, API, SQL, Kafka. Based on "Niffler" app.</br><a target="_blank" href="https://github.com/MDN78/niffler-py-st2/tree/main/niffler-e-2-e-tests-python">NIFFLER</a></td></tr>
+<tr><td width="7%" valign="middle"><img src="assets/requests.png"></td><td valign="middle">API project: Star Wars API. </br><a target="_blank" href="https://github.com/MDN78/star_wars_API">SWAPI</a></td></tr>
+</table>
+
+<!-- ## GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=MDN78)](https://github.com/MDN78/github-profile-trophy) -->
+
 ## Certificates and diplomas
 
 <table width="100%" border='0'>
@@ -55,31 +80,6 @@
     <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Software testing: Automation. Selenium</br><a target="_blank" href="https://stepik.org/cert/2167510?lang=en">Certificate</a></td></tr>
     <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. SQL</br><a target="_blank" href="https://stepik.org/cert/2560338?lang=en">Certificate</a></td></tr>
 </table>
-
-## Projects
-
-1. Testing a web application for teachers from Skyeng. Schedule and video_practice.
-
-<table width="100%" border='0'>
-<tr><td width="12%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skyeng site. Chapter 'schedule' </br><a target="_blank" href="https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60">schedule</a></td></tr>
-<tr><td width="12%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skyeng APPs. Videopractice </br><a target="_blank" href="https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4&#41">video practice</a></td></tr>
-</table>
-
-[//]: # (- [Skyeng_schedule]&#40;https://broken-process-7e3.notion.site/1-2-3-acaea12b7d5d49369a8fd48094c18b60&#41;  )
-
-[//]: # (- [Skyeng_video_practice]&#40;https://broken-process-7e3.notion.site/d7533bdeb736445fb27f1fcf60f4fc13?pvs=4&#41;  )
-
-2. My personal projects:
-
-<table width="100%" border='0'>
-<tr><td width="7%" valign="middle"><img src="assets/selene.png"></td><td valign="middle">Framework: "Selene". Project of auto-tests UI, API, Mobile. Site and mobile App "Autodoc" </br><a target="_blank" href="https://github.com/MDN78/autodoc/tree/mobile_version_draft">AUTODOC</a></td></tr>  
-<tr><td width="7%" valign="middle"><img src="assets/selenium.png"></td><td valign="middle">Framework: "Selenium". Project UI and API tests. Based on services "TRELLO.COM" </br><a target="_blank" href="https://github.com/MDN78/pytest_ui_api_template">TRELLO</a></td></tr>
-<tr><td width="7%" valign="middle"><img src="assets/Niffler.PNG"></td><td valign="middle">Framework: Selene, REST API, SQLAlchemy, KAFKA. Project of auto-tests UI, API, SQL, Kafka. Based on "Niffler" app.</br><a target="_blank" href="https://github.com/MDN78/niffler-py-st2/tree/main/niffler-e-2-e-tests-python">NIFFLER</a></td></tr>
-<tr><td width="7%" valign="middle"><img src="assets/requests.png"></td><td valign="middle">API project: Star Wars API. </br><a target="_blank" href="https://github.com/MDN78/star_wars_API">SWAPI</a></td></tr>
-</table>
-
-<!-- ## GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=MDN78)](https://github.com/MDN78/github-profile-trophy) -->
 
 ## Follow Me
 
