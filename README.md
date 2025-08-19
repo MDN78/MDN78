@@ -40,7 +40,7 @@
 ![jenkins](https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=jenkins)
 ![selenoid](https://img.shields.io/badge/selenoid-000000?style=for-the-badge&logo=appveyor)
 
-## Projects
+## My personal pet-projects
 
 1. Testing a web application for teachers from Skyeng. Schedule and video_practice.
 
