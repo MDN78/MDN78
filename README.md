@@ -74,8 +74,8 @@
 ## Certificates and diplomas
 
 <table style="width: 100%; border: none;">
-    <tr><td width="15%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skypro. QA Engineer<a target="_blank" href="https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing">Certificate</a></td></tr>
-    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/skyprologo.png"></td><td style="vertical-align: middle;">Skypro. QA Automation Engineer. Selenium and Python</br><a target="_blank" href="https://drive.google.com/file/d/1OFW-zMCFt4dPBMt2-NORSH5axeYL9ELt/view?usp=sharing">Certificate</a></td></tr>
+    <tr><td width="15%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skypro. QA Engineer</br><a target="_blank" href="https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/skyprologo.png" alt=""></td><td style="vertical-align: middle;">Skypro. QA Automation Engineer. Selenium and Python</br><a target="_blank" href="https://drive.google.com/file/d/1OFW-zMCFt4dPBMt2-NORSH5axeYL9ELt/view?usp=sharing">Certificate</a></td></tr>
     <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/qa_guru_black.png"></td><td style="vertical-align: middle;">QA.GURU. QA Automation Engineer Advance</br><a target="_blank" href="https://drive.google.com/file/d/14umQtsSGtEcl2exiMfKYllL3MasxaIlx/view?usp=sharing">Certificate</a></td></tr>
     <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/qa_guru_black.png"></td><td style="vertical-align: middle;">QA.GURU. QA Automation Engineer</br><a target="_blank" href="https://drive.google.com/file/d/13k1pRtWdwHjJ1VYe7pfxeGcwwiGOl7LM/view?usp=sharing">Certificate</a></td></tr>
     <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/stepik_logo.png"></td><td style="vertical-align: middle;">Stepik. Python. General course</br><a target="_blank" href="https://stepik.org/cert/1943362">Certificate</a></td></tr>
