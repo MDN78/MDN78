@@ -56,10 +56,11 @@
 <table style="width: 100%; border: none;">
 <tr><td width="7%" valign="middle"><img src="assets/selene.png"></td><td valign="middle">Framework: "Selene". Project of auto-tests UI, API, Mobile. Site and mobile App "Autodoc" </br><a href="https://github.com/MDN78/autodoc/tree/mobile_version_draft" target="_blank">AUTODOC</a></td></tr>  
 <tr><td width="7%" valign="middle"><img src="assets/selenium.png"></td><td valign="middle">Framework: "Selenium". Project UI and API tests. Based on services "TRELLO.COM" </br><a target="_blank" href="https://github.com/MDN78/pytest_ui_api_template">TRELLO</a></td></tr>
-<!-- ## <tr><td width="7%" valign="middle"><img src="assets/Niffler.PNG"></td><td valign="middle">Framework: Selene, REST API, SQLAlchemy, KAFKA. Project of auto-tests UI, API, SQL, Kafka. Based on "Niffler" app.</br><a target="_blank" href="https://github.com/MDN78/niffler-py-st2/tree/main/niffler-e-2-e-tests-python">NIFFLER</a></td></tr>
 <tr><td width="7%" valign="middle"><img src="assets/requests.png"></td><td valign="middle">API project: Star Wars API. </br><a target="_blank" href="https://github.com/MDN78/star_wars_API">SWAPI</a></td></tr>
 <tr><td width="7%" valign="middle"><img src="assets/playwright_2.png"></td><td valign="middle">Framework: "Playwright". The project are written using Python, Pytest, Allure and Playwright. </br><a target="_blank" href="https://github.com/MDN78/autotests-ui">UI Course</a></td></tr>
 </table>
+
+<!-- ## <tr><td width="7%" valign="middle"><img src="assets/Niffler.PNG"></td><td valign="middle">Framework: Selene, REST API, SQLAlchemy, KAFKA. Project of auto-tests UI, API, SQL, Kafka. Based on "Niffler" app.</br><a target="_blank" href="https://github.com/MDN78/niffler-py-st2/tree/main/niffler-e-2-e-tests-python">NIFFLER</a></td></tr>
 
 3. API, SQLAlchemy, OAuth2
 
