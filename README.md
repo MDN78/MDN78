@@ -54,18 +54,18 @@
 2. Auto-tests:
 
 <table style="width: 100%; border: none;">
-<tr><td width="7%" valign="middle"><img src="assets/selene.png"></td><td valign="middle">Framework: "Selene". Project of auto-tests UI, API, Mobile. Site and mobile App "Autodoc" </br><a href="https://github.com/MDN78/autodoc/tree/mobile_version_draft" target="_blank">AUTODOC</a></td></tr>  
-<tr><td width="7%" valign="middle"><img src="assets/selenium.png"></td><td valign="middle">Framework: "Selenium". Project UI and API tests. Based on services "TRELLO.COM" </br><a target="_blank" href="https://github.com/MDN78/pytest_ui_api_template">TRELLO</a></td></tr>
-<tr><td width="7%" valign="middle"><img src="assets/requests.png"></td><td valign="middle">API project: Star Wars API. </br><a target="_blank" href="https://github.com/MDN78/star_wars_API">SWAPI</a></td></tr>
-<tr><td width="7%" valign="middle"><img src="assets/playwright_2.png"></td><td valign="middle">Framework: "Playwright". The project are written using Python, Pytest, Allure and Playwright. </br><a target="_blank" href="https://github.com/MDN78/autotests-ui">UI Course</a></td></tr>
+<tr><td style="width: 7%; vertical-align: middle;"><img src="assets/selene.png"></td><td style="vertical-align: middle;">Framework: "Selene". Project of auto-tests UI, API, Mobile. Site and mobile App "Autodoc" </br><a href="https://github.com/MDN78/autodoc/tree/mobile_version_draft" target="_blank">AUTODOC</a></td></tr>  
+<tr><td style="width: 7%; vertical-align: middle;"><img src="assets/selenium.png"></td><td style="vertical-align: middle;">Framework: "Selenium". Project UI and API tests. Based on services "TRELLO.COM" </br><a target="_blank" href="https://github.com/MDN78/pytest_ui_api_template">TRELLO</a></td></tr>
+<tr><td style="width: 7%; vertical-align: middle;"><img src="assets/requests.png"></td><td style="vertical-align: middle;">API project: Star Wars API. </br> <a target="_blank" href="https://github.com/MDN78/star_wars_API">SWAPI</a></td></tr>
+<tr><td style="width: 7%; vertical-align: middle;"><img src="assets/playwright_2.png"></td><td style="vertical-align: middle;">Framework: "Playwright". The project are written using Python, Pytest, Allure and Playwright. </br><a target="_blank" href="https://github.com/MDN78/autotests-ui">UI Course</a></td></tr>
 </table>
 
-<!-- ## <tr><td width="7%" valign="middle"><img src="assets/Niffler.PNG"></td><td valign="middle">Framework: Selene, REST API, SQLAlchemy, KAFKA. Project of auto-tests UI, API, SQL, Kafka. Based on "Niffler" app.</br><a target="_blank" href="https://github.com/MDN78/niffler-py-st2/tree/main/niffler-e-2-e-tests-python">NIFFLER</a></td></tr>
+[//]: # ( <tr><td width="7%" valign="middle"><img src="assets/Niffler.PNG"></td><td valign="middle">Framework: Selene, REST API, SQLAlchemy, KAFKA. Project of auto-tests UI, API, SQL, Kafka. Based on "Niffler" app.</br><a target="_blank" href="https://github.com/MDN78/niffler-py-st2/tree/main/niffler-e-2-e-tests-python">NIFFLER</a></td></tr>)
 
 3. API, SQLAlchemy, OAuth2
 
-<table width="100%" border='0'>
-<tr><td width="7%" valign="middle"><img src="assets/requests.png"></td><td valign="middle">Internet shop. FastApi.</br><a target="_blank" href="https://github.com/MDN78/fastapi_ecommerce">E-shop FastApi</a></br><a target="_blank" href="https://mdn78.ru/docs#/">Swagger UI</a></td></tr>  
+<table style="width: 100%; border: none;">
+<tr><td style="width: 7%; vertical-align: middle;"><img src="assets/requests.png"></td><td style="vertical-align: middle;">Internet shop. FastApi.</br><a target="_blank" href="https://github.com/MDN78/fastapi_ecommerce">E-shop FastApi</a></br><a target="_blank" href="https://mdn78.ru/docs#/">Swagger UI</a></td></tr>  
 </table>
 
 <!-- ## GitHub Profile Trophy
@@ -73,19 +73,19 @@
 
 ## Certificates and diplomas
 
-<table width="100%" border='0'>
-    <tr><td width="15%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skypro. QA Engineer</br><a target="_blank" href="https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing">Certificate</a></td></tr>
-    <tr><td width="15%" valign="middle"><img src="assets/skyprologo.png"></td><td valign="middle">Skypro. QA Automation Engineer. Selenium and Python</br><a target="_blank" href="https://drive.google.com/file/d/1OFW-zMCFt4dPBMt2-NORSH5axeYL9ELt/view?usp=sharing">Certificate</a></td></tr>
-    <tr><td width="15%" valign="middle"><img src="assets/qa_guru_black.png"></td><td valign="middle">QA.GURU. QA Automation Engineer Advance</br><a target="_blank" href="https://drive.google.com/file/d/14umQtsSGtEcl2exiMfKYllL3MasxaIlx/view?usp=sharing">Certificate</a></td></tr>
-    <tr><td width="15%" valign="middle"><img src="assets/qa_guru_black.png"></td><td valign="middle">QA.GURU. QA Automation Engineer</br><a target="_blank" href="https://drive.google.com/file/d/13k1pRtWdwHjJ1VYe7pfxeGcwwiGOl7LM/view?usp=sharing">Certificate</a></td></tr>
-    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. General course</br><a target="_blank" href="https://stepik.org/cert/1943362">Certificate</a></td></tr>
-    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. FAST API</br><a target="_blank" href="https://stepik.org/cert/2709249">Certificate</a></td></tr>
-    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Object-orient programming</br><a target="_blank" href="https://stepik.org/cert/2504463?lang=en">Certificate</a></td></tr>
-    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Extended course</br><a target="_blank" href="https://stepik.org/cert/2082586">Certificate</a></td></tr>
-    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. API automation and programming testing</br><a target="_blank" href="https://stepik.org/cert/2066038">Certificate</a></td></tr>
-    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Test automation using Selenium</br><a target="_blank" href="https://stepik.org/cert/2118089?lang=en">Certificate</a></td></tr>
-    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. Software testing: Automation. Selenium</br><a target="_blank" href="https://stepik.org/cert/2167510?lang=en">Certificate</a></td></tr>
-    <tr><td width="15%" valign="middle"><img src="assets/stepik_logo.png"></td><td valign="middle">Stepik. Python. SQL</br><a target="_blank" href="https://stepik.org/cert/2560338?lang=en">Certificate</a></td></tr>
+<table style="width: 100%; border: none;">
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/skyprologo.png" alt=""></td><td style="vertical-align: middle;">Skypro. QA Engineer</br><a target="_blank" href="https://drive.google.com/file/d/1O1EBU1pxq6RvTFC31XtrJj9bqyPISMTW/view?usp=sharing">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/skyprologo.png"></td><td style="vertical-align: middle;">Skypro. QA Automation Engineer. Selenium and Python</br><a target="_blank" href="https://drive.google.com/file/d/1OFW-zMCFt4dPBMt2-NORSH5axeYL9ELt/view?usp=sharing">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/qa_guru_black.png"></td><td style="vertical-align: middle;">QA.GURU. QA Automation Engineer Advance</br><a target="_blank" href="https://drive.google.com/file/d/14umQtsSGtEcl2exiMfKYllL3MasxaIlx/view?usp=sharing">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/qa_guru_black.png"></td><td style="vertical-align: middle;">QA.GURU. QA Automation Engineer</br><a target="_blank" href="https://drive.google.com/file/d/13k1pRtWdwHjJ1VYe7pfxeGcwwiGOl7LM/view?usp=sharing">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/stepik_logo.png"></td><td style="vertical-align: middle;">Stepik. Python. General course</br><a target="_blank" href="https://stepik.org/cert/1943362">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/stepik_logo.png"></td><td style="vertical-align: middle;">Stepik. FAST API</br><a target="_blank" href="https://stepik.org/cert/2709249">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/stepik_logo.png"></td><td style="vertical-align: middle;">Stepik. Python. Object-orient programming</br><a target="_blank" href="https://stepik.org/cert/2504463?lang=en">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/stepik_logo.png"></td><td style="vertical-align: middle;">Stepik. Python. Extended course</br><a target="_blank" href="https://stepik.org/cert/2082586">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/stepik_logo.png"></td><td style="vertical-align: middle;">Stepik. Python. API automation and programming testing</br><a target="_blank" href="https://stepik.org/cert/2066038">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/stepik_logo.png"></td><td style="vertical-align: middle;">Stepik. Python. Test automation using Selenium</br><a target="_blank" href="https://stepik.org/cert/2118089?lang=en">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/stepik_logo.png"></td><td style="vertical-align: middle;">Stepik. Python. Software testing: Automation. Selenium</br><a target="_blank" href="https://stepik.org/cert/2167510?lang=en">Certificate</a></td></tr>
+    <tr><td style="width: 15%; vertical-align: middle;"><img src="assets/stepik_logo.png"></td><td style="vertical-align: middle;">Stepik. Python. SQL</br><a target="_blank" href="https://stepik.org/cert/2560338?lang=en">Certificate</a></td></tr>
 </table>
 
 ## Follow Me
