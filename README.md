@@ -53,7 +53,7 @@
 
 2. Auto-tests:
 
-<table style="width: 100%; border: none;">
+<table style="width: 100%; border: 0;">
 <tr><td style="width: 7%; vertical-align: left;"><img src="assets/selene.png" alt=""></td><td style="vertical-align: middle;">Framework: "Selene". Project of auto-tests UI, API, Mobile. Site and mobile App "Autodoc" <a href="https://github.com/MDN78/autodoc/tree/mobile_version_draft" target="_blank">AUTODOC</a></td></tr>  
 <tr><td style="width: 7%; vertical-align: middle;"><img src="assets/selenium.png"></td><td style="vertical-align: middle;">Framework: "Selenium". Project UI and API tests. Based on services "TRELLO.COM" </br><a target="_blank" href="https://github.com/MDN78/pytest_ui_api_template">TRELLO</a></td></tr>
 <tr><td style="width: 7%; vertical-align: middle;"><img src="assets/requests.png"></td><td style="vertical-align: middle;">API project: Star Wars API. </br> <a target="_blank" href="https://github.com/MDN78/star_wars_API">SWAPI</a></td></tr>
