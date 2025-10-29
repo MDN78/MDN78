@@ -65,7 +65,7 @@
 3. API, SQLAlchemy, OAuth2
 
 <table style="width: 100%; border: none;">
-<tr><td style="width: 7%; vertical-align: middle;"><img src="assets/requests.png"></td><td style="vertical-align: middle;">Internet shop. FastApi.</br><a target="_blank" href="https://github.com/MDN78/fastapi_ecommerce">E-shop FastApi</a></br><a target="_blank" href="https://mdn78.ru/docs#/">Swagger UI</a></td></tr>  
+<tr><td width="7%" valign="middle"><img src="assets/requests.png"></td><td valign="middle">Internet shop. FastApi.</br><a target="_blank" href="https://github.com/MDN78/fastapi_ecommerce">E-shop FastApi</a></br><a target="_blank" href="https://mdn78.ru/docs#/">Swagger UI</a></td></tr>  
 </table>
 
 <!-- ## GitHub Profile Trophy
