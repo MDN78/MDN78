@@ -54,7 +54,7 @@
 2. Auto-tests:
 
 <table style="width: 100%; border: 0;">
-<tr><td width="7%" valign="middle"><img src="assets/selene.png" alt=""></td><td valign="middle">Framework: "Selene". Project of auto-tests UI, API, Mobile. Site and mobile App "Autodoc" <a href="https://github.com/MDN78/autodoc/tree/mobile_version_draft" target="_blank">AUTODOC</a></td></tr>  
+<tr><td width="7%" valign="middle"><img src="assets/selene.png" alt=""></td><td valign="middle">Framework: "Selene". Project of auto-tests UI, API, Mobile. Site and mobile App "Autodoc" </br> <a href="https://github.com/MDN78/autodoc/tree/mobile_version_draft" target="_blank">AUTODOC</a></td></tr>  
 <tr><td width="7%" valign="middle"><img src="assets/selenium.png"></td><td valign="middle">Framework: "Selenium". Project UI and API tests. Based on services "TRELLO.COM" </br><a target="_blank" href="https://github.com/MDN78/pytest_ui_api_template">TRELLO</a></td></tr>
 <tr><td width="7%" valign="middle"><img src="assets/requests.png"></td><td valign="middle">API project: Star Wars API. </br> <a target="_blank" href="https://github.com/MDN78/star_wars_API">SWAPI</a></td></tr>
 <tr><td width="7%" valign="middle"><img src="assets/playwright_2.png"></td><td valign="middle">Framework: "Playwright". The project are written using Python, Pytest, Allure and Playwright. </br><a target="_blank" href="https://github.com/MDN78/autotests-ui">UI Course</a></td></tr>
