@@ -23,17 +23,13 @@
 
 ## Tools
 
-![Docker](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=appveyor)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=appveyor)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira)
 ![Miro](https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=Miro)
 ![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=Confluence)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman)
 ![Postgre](https://img.shields.io/badge/Postgre-000000?style=for-the-badge&logo=postgresql)
-![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=appveyor)
-![SQL](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=sqlite&logoColor=appveyor)
-![Playwright](https://img.shields.io/badge/playwright-000000?style=for-the-badge&logo=appveyor)
-![SELENIUM](https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=selenium)
-![REQUESTS](https://img.shields.io/badge/requests-000000?style=for-the-badge&logo=appveyor)
+![DBeaver](https://img.shields.io/badge/dbeawer-000000?style=for-the-badge&logo=appveyor)
 
 
 ## My projects
