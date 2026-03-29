@@ -24,6 +24,8 @@
 ## Tools
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=appveyor)
+![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github)
+![Devtools](https://img.shields.io/badge/devtools-000000?style=for-the-badge&logo=appveyor)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira)
 ![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=Confluence)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman)
