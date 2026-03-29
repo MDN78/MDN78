@@ -31,7 +31,7 @@
 ![Postgre](https://img.shields.io/badge/Postgre-000000?style=for-the-badge&logo=postgresql)
 ![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=appveyor)
 ![SQL](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=sqlite&logoColor=appveyor)
-![Playwright](https://img.shields.io/badge/playwright-000000?style=for-the-badge&logo=playwright)
+![Playwright](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=appveyor)
 ![SELENIUM](https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=selenium)
 ![REQUESTS](https://img.shields.io/badge/requests-000000?style=for-the-badge&logo=appveyor)
 
