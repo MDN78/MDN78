@@ -21,13 +21,11 @@
 <code><img width="5%" title="sqlite" src="https://github.com/MDN78/MDN78/blob/main/assets/sqlite1.png"></code>
 <code><img width="5%" title="markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"></code>
 
-## Tools and skills
+## Tools
 
 ![Qase](https://img.shields.io/badge/Qase-000000?style=for-the-badge&logo=appveyor)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira)
-![Sitechco](https://img.shields.io/badge/Sitechco-000000?style=for-the-badge&logo=appveyor)
 ![Miro](https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=Miro)
-![Checkvist](https://img.shields.io/badge/Checkvist-000000?style=for-the-badge&logo=appveyor)
 ![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=Confluence)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman)
 ![Postgre](https://img.shields.io/badge/Postgre-000000?style=for-the-badge&logo=postgresql)
@@ -35,8 +33,7 @@
 ![SQL](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=sqlite&logoColor=appveyor)
 ![SELENIUM](https://img.shields.io/badge/selenium-000000?style=for-the-badge&logo=selenium)
 ![REQUESTS](https://img.shields.io/badge/requests-000000?style=for-the-badge&logo=appveyor)
-![jenkins](https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=jenkins)
-![selenoid](https://img.shields.io/badge/selenoid-000000?style=for-the-badge&logo=appveyor)
+
 
 ## My projects
 
