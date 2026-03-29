@@ -31,7 +31,7 @@
 ![Postgre](https://img.shields.io/badge/Postgre-000000?style=for-the-badge&logo=postgresql)
 ![DBeaver](https://img.shields.io/badge/dbeawer-000000?style=for-the-badge&logo=appveyor)
 ![Swagger](https://img.shields.io/badge/swagger-000000?style=for-the-badge&logo=swagger)
-![jenkins](https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=appveyor)
+![jenkins](https://img.shields.io/badge/jenkins-000000?style=for-the-badge&logo=jenkins)
 
 
 ## My projects
