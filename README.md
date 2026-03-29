@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a target="_blank">Dimitri</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior QAA Engineer</h3>
+<h3 align="center">QA Automation Engineer</h3>
 <h4 align="left">In this case your can find my projects completed in the course of training and practice.</h4>  
 
 ## Stack:
