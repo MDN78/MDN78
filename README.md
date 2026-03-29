@@ -25,7 +25,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=appveyor)
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira)
-![Miro](https://img.shields.io/badge/Miro-000000?style=for-the-badge&logo=Miro)
 ![Confluence](https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=Confluence)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman)
 ![Postgre](https://img.shields.io/badge/Postgre-000000?style=for-the-badge&logo=postgresql)
